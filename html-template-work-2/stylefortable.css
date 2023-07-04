@@ -1,0 +1,46 @@
+#tabledata1{
+    color: white;
+    background-color: black;
+}
+#tabledata2{
+    color: black;
+    background-color: white;
+}
+#image{
+    border-style:ridge;
+    border-width:thick;
+    border-color:darkgrey;
+}
+#button1{
+    color: white;
+    background-color: blue;
+    height: 30px;
+    border: black;
+}
+#button2{
+    color: white;
+    background-color: red;
+    height: 30px;
+    border:black;
+}
+#backgroundcolorgrey{
+    background-color: white;
+    text-align: center;
+}
+.whitecolor{
+    background-color: white;
+    font-weight:500;
+    box-shadow: 5px 5px 5px 5px #d3d3d3;
+    box-sizing: content-box;
+    
+}
+.backgroundcolorgrey{
+    background-color: #d3d3d3;
+}
+#workbackground{
+    background-color: #d3d3d3;
+}
+#iconscolor{
+    color:white;
+    background-color: black;
+}
